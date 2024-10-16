@@ -1,5 +1,5 @@
 # 💫 Minusta:
-🔭  Työskentelen tällä hetkellä vähän kaikkea<br>👯 Haluan auttaa discord command/webhook etähallinta projekteissa<br>🤝 Haluan auttaa muita menestymään omissa discord pohjasissa projekteissa<br><br>💬 Kysy minulta ihan mihin tahansa projektiin apua ja lupaan auttaa <br>⚡ Hauska fakta omistan ison discord palvelimen
+🔭  Työskentelen tällä hetkellä vähän kaikkea<br>👯 Haluan auttaa discord command/webhook etähallinta projekteissa<br>🤝 Haluan auttaa muita menestymään omissa discord pohjasissa projekteissa<br>💬 Kysy minulta ihan mihin tahansa projektiin apua ja lupaan auttaa <br>⚡ Hauska fakta omistan ison discord palvelimen
 
 
 # 💻 Tech Pino:
